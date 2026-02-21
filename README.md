@@ -1,10 +1,11 @@
 # Personal-Server
-This is a webpage for my personal server. More info in README.txt
+This is a webpage for my personal server. More info in README.md
 
 ### This is a Webpage for my dedicated personal server that I deployed using my laptop
 For more explanation about my server is that im using my personal laptop. Which means the server will not always up 24/7.
 It only works to retrieve files only from my laptop.
 
 But to make things easier for others to see, I also deploy using GitHub web deployment.
+But it cant retrieve files as it didnt have database enviroment to work, so it can display files in the webpage.
 
-This work around PHP and database (SQL) for its backend.
+This work around PHP and database (SQL) for its backend and XAMPP to utilize Apache and MySQL.
